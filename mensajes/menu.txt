@@ -1,8 +1,9 @@
-Bienvenido a Rowena hybrid! Elige una opción:
+Bienvenido a centro integral de diseño!🤖 Elige una opción:
 
-Opcion 1 - Que hacemos en Rowena
-Opcion 2 - Conoce nuestros 3 Bots
-Opcion 3 - Soporte
-Opcion 4 - Preguntas
+Opción 1 - Que hacemos en Cid 📍
+Opción 2 - Conoce los servicios de agencia 📸
+Opción 3 - Conoce los cursos de escuela📚
+Opción 4 - Soporte 🦺
+Opción 5 - Preguntas 📢
 
-Opcion 0 - Salir
+Opción 0 - Salir
